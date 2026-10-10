@@ -1,0 +1,9 @@
+# Versions used for the paper (Python 3.12, CPU). ffmpeg/ffprobe (7.x) must be on PATH.
+numpy==1.26.4
+scipy==1.17.1
+opencv-contrib-python==4.11.0.86
+insightface==1.0.1
+onnxruntime==1.29.0
+mediapipe==0.10.21
+torch==2.10.0
+python_speech_features==0.6
