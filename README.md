@@ -1,3 +1,5 @@
+> **Moved:** this code now lives at **https://github.com/LuckisonDu/two-person-lipsync-slt** (new paper title: *Blind Spots in Lip-Sync Evaluation of Two-Person Video and the Speaker–Listener–Timing (SLT) Scheme*). This repository is kept for reference and is no longer updated.
+
 # Who Is Talking? Auditing Lip-Sync Metrics for Two-Person Video by Fault Injection
 
 Code for the fault-injection audit of lip-sync metrics on real two-person conversations and for
